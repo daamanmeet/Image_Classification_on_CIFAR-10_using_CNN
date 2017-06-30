@@ -16,7 +16,7 @@
 
 2. Clone this repository:
 
-		git clone https://github.com/daamanmeet/Language_translation_using_NN_machine_translation.git
+		git clone https://github.com/daamanmeet/Image_Classification_on_CIFAR-10_using_CNN.git
 		
 3. Enter the folder for the image classification project:
 
